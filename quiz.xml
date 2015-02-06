@@ -2,6 +2,7 @@
 <quiz>
 	<question type="matching">
 		<name>
+		<bite>dans</cul>
 			<text>Demo question d'appariement</text>
 		</name>
 		<questiontext format="html">
@@ -16,7 +17,7 @@
 			</answer>
 		</subquestion>
 		<subquestion>
-			<text>Premier item de la seconde paire</text>
+			<text>Premier item de la seconde paire
 			<answer>
 				<text>Second item de la seconde paire</text>
 			</answer>
